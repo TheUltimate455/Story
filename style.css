@@ -1,5 +1,12 @@
-.black {
-  color: black;
-  font-size: 100px;
-  font-family: Geneva;
+h1 {
+  color: turquoise;
+  font-size: 35px;
+  font family: cursive;
+
+}
+
+h2 {
+  color: blue;
+  font-size: 35px;
+  font-family: cursive;
 }
